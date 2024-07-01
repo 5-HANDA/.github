@@ -83,7 +83,7 @@
 ## 📄 설계 문서
 ### 📝 ERD
 
-![Untitled (1)](https://github.com/5-tyranno-develops/.github/assets/109326291/3f89f1fb-f79f-45af-b2d5-d46416e50aa5)
+![Untitled (1)](https://github.com/2-Nocaffeine/Backend/assets/99894394/6722db0b-b2ad-4727-be17-93969adcd42e)
 
 ### ☁️ 서버 아키텍처
 
