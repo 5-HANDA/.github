@@ -16,7 +16,7 @@
 <td align="center"><a href="https://github.com/imeline"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/5039ea8d-86a8-4ad4-b944-496b277704f5" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 이선주</b></sub></a><br /></td>
 <tr/>
 <td align="center"><sub>회원</sub></td>
-<td align="center"><sub>채팅</sub></td>
+<td align="center"><sub>채팅 기능, <br>알림 기능, <br>게시판 기능, <br>소모임 생성 및 수정</sub></td>
 <td align="center"><sub>CI/CD구축, <br>MSA 안프라 구축, <br>취미 설문 서비스, <br>게시판 서비스, <br>스프링 배치 서버 구축</sub></td>
 <td align="center"><sub> 시큐리티, <br>회원 서비스</sub></td>
 <td align="center"><sub>채팅 서비스, <br>소모임 서비스, <br>알림 서비스, <br>활동지역 서비스, <br>소셜 회원 서비스</sub></td>
