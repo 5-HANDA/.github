@@ -9,11 +9,11 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/venderjin"><img src="https://github.com/5-HANDA/do-backend-batch/assets/99894394/b4b29d0e-5195-4523-9038-c36b823b13c5"width="100px;" alt=""/><br /><sub><b>FE | 팀장 : 김예진</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/hyobin0726"><img src="https://github.com/5-HANDA/do-backend-batch/assets/99894394/b4b29d0e-5195-4523-9038-c36b823b13c5"width="100px;" alt=""/><br /><sub><b>FE | 팀원 : 박효빈</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/CANADAGAGOPA"><img src="https://github.com/5-HANDA/do-backend-batch/assets/99894394/b4b29d0e-5195-4523-9038-c36b823b13c5" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 김선욱</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/howudong"><img src="https://github.com/5-HANDA/do-backend-batch/assets/99894394/b4b29d0e-5195-4523-9038-c36b823b13c5" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 홍준표</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/imeline"><img src="https://github.com/5-HANDA/do-backend-batch/assets/99894394/b4b29d0e-5195-4523-9038-c36b823b13c5" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 이선주</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/venderjin"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/1351b654-ae69-4476-b678-0938dffa39de"width="100px;" alt=""/><br /><sub><b>FE | 팀장 : 김예진</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/hyobin0726"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/b22d7e04-7377-493f-8b30-61e9f40df469"width="100px;" alt=""/><br /><sub><b>FE | 팀원 : 박효빈</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/CANADAGAGOPA"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/8a05eb0c-86b2-461b-b8ac-f6e6cc8326b4" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 김선욱</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/howudong"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/f65f3299-be0a-4a6e-a72f-b9cc8f264f1c" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 홍준표</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/imeline"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/5039ea8d-86a8-4ad4-b944-496b277704f5" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 이선주</b></sub></a><br /></td>
 <tr/>
 <td align="center"><sub>회원</sub></td>
 <td align="center"><sub>채팅</sub></td>
@@ -77,7 +77,7 @@
 - **게시글 작성, 수정, 삭제**
 - **게시글 좋아요, 댓글**
 - **소모임 신청서**
-- **소몽ㅁ알림**
+- **소모임 알림**
 - **소모임 단체 채팅**
 
 ## 📄 설계 문서
@@ -90,13 +90,13 @@
 ![Web App Reference Architecture (1)](https://github.com/2-Nocaffeine/Backend/assets/99894394/d887eb25-a8bf-48bb-b5c7-10eb81390590)
 
 
-## ⭐️ Api 설계서
+## ⭐️ Api 명세서
 
-[API 정의서_tyranno.pdf](https://github.com/5-tyranno-develops/.github/files/14973406/API._tyranno.pdf)
+[API 명세서](https://ionized-eagle-cdd.notion.site/API-dcf4a465592d4918bee198fc0d5c1c9d?pvs=4)
 
 ## 🖋️ 요구사항 명세서
 
-![ tyranno-develops 개발문서 - 요구사항정의서](https://github.com/5-tyranno-develops/.github/assets/109326291/ce473141-49af-4ddc-a25b-73b9ee824531)
+[요구사항 정의서](https://ionized-eagle-cdd.notion.site/996ef5ce8cf34af19b3db85b297033c1?pvs=4)
 
 ## 📧 협업:Notion
-
+[HanDa Notion](https://ionized-eagle-cdd.notion.site/HANDA-91f664b3d6a24c908e11e224ea5c7420?pvs=4)
