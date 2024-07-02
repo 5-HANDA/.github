@@ -1,5 +1,7 @@
 #  취미한다 Hobbie-Do
 
+![image](https://github.com/5-HANDA/.github/assets/99894394/4889756e-c27f-43f8-a50d-6361b25776d4)
+
 ### 🌱 프로젝트 목표
 사용자들에게 맞춤 취미를 추천해주고, 사용자들은 자신이 설정한 지역과 추천된 취미를 바탕으로 소모임 생성 및 가입을 할 수 있으며, 해당 소모임에서 게시판, 채팅 등 커뮤니티 활동을 할 수 있다 
 
@@ -137,9 +139,13 @@
 - **소모임 단체 채팅**
 
 ## 📄 설계 문서
+### 📌 이벤트 스토밍
+
+![이벤트 스토밍](https://github.com/5-HANDA/.github/assets/99894394/aa46b2b0-48e6-4413-83cb-f17a9a061a0e)
+
 ### 📝 ERD
 
-![Untitled (1)](https://github.com/2-Nocaffeine/Backend/assets/99894394/6722db0b-b2ad-4727-be17-93969adcd42e)
+![ERD 설계서](https://github.com/2-Nocaffeine/Backend/assets/99894394/6722db0b-b2ad-4727-be17-93969adcd42e)
 
 ### ☁️ 인프라 아키텍처
 
@@ -149,7 +155,8 @@
 2. 게이트웨이 서버 등 MSA 인프라를 구축하였다
 3. KAFKA 서버를 따로 EC2 인스턴스를 통해 구축하였고, 이를 통해 EDA 를 하였다
 4. Mongo DB 는 Mongo Atlas 를 통해 구축함으로써 인스턴스의 부하 부담을 줄여주었다
-5. 프론트엔드 파일인 Next.js 파일도 AWS EC2 를 통해 배포하였다
+5. Mongo DB 를 활용하여 읽기 전용 서버를 구축함으로써 API 부하 부담을 줄여주었다
+6. 프론트엔드 파일인 Next.js 파일도 AWS EC2 를 통해 배포하였다
 
 ## ⭐️ Api 명세서
 
