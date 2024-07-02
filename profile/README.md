@@ -12,7 +12,7 @@
 <td align="center"><a href="https://github.com/venderjin"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/1351b654-ae69-4476-b678-0938dffa39de"width="100px;" alt=""/><br /><sub><b>FE | 팀장 : 김예진</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/hyobin0726"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/b22d7e04-7377-493f-8b30-61e9f40df469"width="100px;" alt=""/><br /><sub><b>FE | 팀원 : 박효빈</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/CANADAGAGOPA"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/8a05eb0c-86b2-461b-b8ac-f6e6cc8326b4" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 김선욱</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/howudong"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/f65f3299-be0a-4a6e-a72f-b9cc8f264f1c" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 홍준표</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/howudong"><img src="https://github.com/5-HANDA/.github/assets/99894394/f52e3af4-1670-43cc-b1c4-660a86d450c1" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 홍준표</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/imeline"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/5039ea8d-86a8-4ad4-b944-496b277704f5" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 이선주</b></sub></a><br /></td>
 <tr/>
 <td align="center"><sub>회원</sub></td>
@@ -51,20 +51,76 @@
 
 ## ☀️ 서비스 화면
 
-### 메인페이지
+### 소모임 둘러보기
+자신의 활동 지역과 추천 취미와 일치하는 소모임들을 둘러볼 수 있다
 
-![Untitled (2)](https://github.com/5-tyranno-develops/.github/assets/109326291/1f42f0ea-a9aa-4df1-9b17-1cfea4b89aa8)
-
-### 활동 지역 등록  
-카카오 지도 API 를 받아 활동지역을 최대 3개까지 등록합니다 
-
-<img width="400" alt="image" src="https://github.com/jmlee119/maphant-app/assets/68285285/d054096f-fdf5-4cee-952e-1473c1aea8e8">  
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/4bf40377-6c9b-41d6-987e-22ef62d1b2f5">
 
 
-### 카카오 공유하기  
-원하는 상품을 카카오톡 친구와 공유할 수 있는 기능을 만들었습니다.  
+### 소모임 생성
+자신이 설정한 활동 지역과 추천 취미를 바탕으로 소모임을 생성할 수 있다
 
-<img width="400" alt="image" src="https://github.com/jmlee119/maphant-app/assets/68285285/d220f422-f23c-4933-b16f-da5977e7eb78">  
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/3353a8c6-a4f0-4937-bf06-0c85391c93cf">  
+
+
+### 소모임 게시판 게시글 작성
+자신이 소속된 소모임의 게시판에 게시글을 작성할 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/8e90ae56-1407-4640-9b5d-bffe43c25826">  
+
+
+### 소모임장 게시글 고정
+소모임장이 자신의 소모임 게시판 내 특정 게시글을 1개 고정할 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/141c8350-9dcc-46b0-8fff-8995c30b9edf">  
+
+
+### 소모임 게시판 게시글 좋아요 및 댓글 기능
+게시판의 게시글에 사용자등리 좋아요와 댓글 기능을 사용할 수 있고, 해당 게시글의 좋아요 수와 댓글 수를 확인할 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/f551f294-2b80-4f3f-8708-b5c3c0c3cf72">  
+
+
+### 소모임 게시판 게시글 리스트 무한 스크롤 조회
+게시판 내 게시글 리스트에 대하여 무한 스크롤로 구현하였다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/b9d742c0-251f-4229-96c4-548ab949dc45">  
+
+
+### 소모임 채팅 리스트
+소속된 소모임들의 채팅 리스트를 볼 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/dbf5f49c-4c19-4200-a031-1acb0f130a77">  
+
+
+### 소모임 실시간 채팅
+특정 소모임에서 회원들과 실시간으로 채팅을 할 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/d20150f2-58b7-40e8-8339-65e3859bc147">  
+
+
+### 소모임 채팅방 이전내역 무한 스크롤 조회
+소속된 소모임의 채팅방에서 이전내역을 무한 스크롤로 조회할 수 있게끔 구현하였다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/7036c99b-b3ee-4206-b3f0-cd0f1be55069">  
+
+
+### 소모임 내 회원 강퇴 및 가입 수락, 거절
+내가 만든 소모임에서 특정 회원을 강제퇴장을 시키거나, 신청가입방식의 경우 가입을 수락 또는 거절할 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/7c47f970-045d-4573-b7bf-decf5f254b58">  
+
+
+### 소모임 가입 신청 알람
+내가 만든 소모임에서 특정 회원의 가입 신청을 알람을 통해 볼 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/82d0932c-32d8-4412-ba67-029142ed445c">  
+
+
+### 소모임 나가기
+특정 소모임에서 탈퇴를 할 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/99894394/739c7935-184c-4a16-94f3-4b6b3ac904aa">  
 
 
 
@@ -89,6 +145,11 @@
 
 ![Web App Reference Architecture (1)](https://github.com/2-Nocaffeine/Backend/assets/99894394/d887eb25-a8bf-48bb-b5c7-10eb81390590)
 
+1. GitActions 를 통해 CI / CD 를 구축하였다
+2. 게이트웨이 서버 등 MSA 인프라를 구축하였다
+3. KAFKA 서버를 따로 EC2 인스턴스를 통해 구축하였고, 이를 통해 EDA 를 하였다
+4. Mongo DB 는 Mongo Atlas 를 통해 구축함으로써 인스턴스의 부하 부담을 줄여주었다
+5. 프론트엔드 파일인 Next.js 파일도 AWS EC2 를 통해 배포하였다
 
 ## ⭐️ Api 명세서
 
