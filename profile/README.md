@@ -17,7 +17,7 @@
 <td align="center"><a href="https://github.com/howudong"><img src="https://github.com/5-HANDA/.github/assets/99894394/f52e3af4-1670-43cc-b1c4-660a86d450c1" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 홍준표</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/imeline"><img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/5039ea8d-86a8-4ad4-b944-496b277704f5" width="100px;" alt=""/><br /><sub><b>BE | 팀원 : 이선주</b></sub></a><br /></td>
 <tr/>
-<td align="center"><sub>회원</sub></td>
+<td align="center"><sub>現 팀장, <br>UI/UX, 회원 기능, <br>위치기반 활동지역 기능, <br>설문조사 기능, <br>마이페이지, 홈, <br>소모임 둘러보기</sub></td>
 <td align="center"><sub>채팅 기능, <br>알림 기능, <br>게시판 기능, <br>소모임 생성 및 수정</sub></td>
 <td align="center"><sub>CI/CD구축, <br>MSA 안프라 구축, <br>취미 설문 서비스, <br>게시판 서비스, <br>스프링 배치 서버 구축</sub></td>
 <td align="center"><sub> 시큐리티, <br>회원 서비스</sub></td>
