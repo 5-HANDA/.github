@@ -54,6 +54,36 @@
 
 ## ☀️ 서비스 화면
 
+### 회원가입
+통합 회원 가입 및 구글 회원 가입할 수 있다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/140376727/b0c654ee-96e3-42e3-a1d2-84b11c840744">
+
+### 위치설정 및 설문조사
+자신의 현재 위치 기반으로 활동범위 설정과 설문조사를 진행한다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/140376727/f5025bf6-128e-4964-bfb9-5bc219c7dcf1">
+
+### 홈
+설문조사바탕 취미 결과를 확인하고 새로 생긴 모임과 HOT한 게시판을 조회하며 소통한다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/140376727/5535d0f2-5f9e-4e6d-b17d-b8795c1f39ee">
+
+### 활동 지역 변경
+활동지역은 최대 3개까지 등록 및 수정 가능하다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/140376727/73770348-a5b7-45a4-a31c-ed431de35eec">
+
+### 소모임에 가입하거나 철회한다
+소모임은 자유방식과 가입방식이 있으며 10일간 미수락시 자동 철회된다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/140376727/fddffdeb-e066-4cc1-b88c-b68650b40c58">
+
+### 비밀번호 재설정
+비밀번호를 재설정한다
+
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/140376727/17278459-02cc-4faf-8c2c-2888e4a68f67">
+
 ### 소모임 둘러보기
 자신의 활동 지역과 추천 취미와 일치하는 소모임들을 둘러볼 수 있다
 
@@ -129,7 +159,7 @@
 
 ## 🏆 주요 기능
 - **소셜로그인**
-- **로그인 , 회원가입 - 문자인증**
+- **로그인 , 회원가입 - 이메일인증**
 - **활동지역 등록 - 카카오 맵 API**
 - **취미 설문 조사**
 - **소모임 생성 및 가입**
