@@ -58,6 +58,7 @@
 통합 회원 가입 및 구글 회원 가입할 수 있다
 
 <img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/140376727/b0c654ee-96e3-42e3-a1d2-84b11c840744">
+<img width="300" alt="image" src="https://github.com/5-HANDA/.github/assets/128706341/7a99357b-77cc-4e71-97eb-a6ac00262997">
 
 ### 위치설정 및 설문조사
 자신의 현재 위치 기반으로 활동범위 설정과 설문조사를 진행한다
