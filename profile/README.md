@@ -192,14 +192,11 @@
 
 ## ⭐️ Api 명세서
 
-[API 명세서](https://ionized-eagle-cdd.notion.site/API-dcf4a465592d4918bee198fc0d5c1c9d?pvs=4)
+[API 명세서](https://sugared-visitor-f84.notion.site)
 
 ## 🖋️ 요구사항 명세서
 
 [요구사항 정의서](https://ionized-eagle-cdd.notion.site/996ef5ce8cf34af19b3db85b297033c1?pvs=4)
-
-## 📧 협업:Notion
-[HanDa Notion](https://ionized-eagle-cdd.notion.site/HANDA-91f664b3d6a24c908e11e224ea5c7420?pvs=4)
 
 ## 📝 프로젝트 회고
 
